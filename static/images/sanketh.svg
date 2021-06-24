@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="200" height="200" viewBox="0 0 200 200" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(0 0 0 0 0 0)" id="5b06b661-42ec-4925-9e2e-07030a2f5298"  >
+</g>
+<g transform="matrix(1 0 0 1 100 100)" id="b03e7ce0-6655-462f-8628-55c04d6fadf9"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-100" y="-100" rx="0" ry="0" width="200" height="200" />
+</g>
+<g transform="matrix(1 0 0 1.07 100 121.6)" style="" id="44ae89d3-af4a-433d-aa5b-47497a156d93"  >
+		<rect fill="#008080" x="-218.82" y="-118.65" width="437.64" height="237.3"></rect>
+		<text xml:space="preserve" font-family="Roboto" font-size="105" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-26.89" y="-26.34" >s</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 100 138.14)" style="filter: url(#SVGID_276);" id="561c39f7-235f-48a8-90c0-ee72dcf06f0d"  >
+<filter id="SVGID_276" y="-108%" height="316%" x="-36%" width="172%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="19.5"></feGaussianBlur>
+	<feOffset dx="-1" dy="-1" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(230,230,230)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<rect fill="#008080" x="-125" y="-22.6" width="249.99" height="45.2"></rect>
+		<text xml:space="preserve" font-family="Lato" font-size="40" font-style="normal" font-weight="100" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-90.8" y="12.57" >s</tspan><tspan x="-73.2" y="12.57" >a</tspan><tspan x="-53.34" y="12.57" >n</tspan><tspan x="-31.3" y="12.57" >k</tspan><tspan x="-9.73" y="12.57" >e</tspan><tspan x="14.26" y="12.57" >t</tspan><tspan x="28.92" y="12.57" >h</tspan><tspan x="50.96" y="12.57" >.</tspan><tspan x="59.26" y="12.57" >i</tspan><tspan x="70.8" y="12.57" >o</tspan></text>
+</g>
+</svg>
